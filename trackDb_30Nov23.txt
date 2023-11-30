@@ -1,0 +1,1800 @@
+track	ANMII1
+shortLabel	ANMII1_MII oocyte
+longLabel	ANMII1_MII oocyte_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANMII1_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,0,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANMII2
+shortLabel	ANMII2_MII oocyte
+longLabel	ANMII2_MII oocyte_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANMII2_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,0,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANMII3
+shortLabel	ANMII3_MII oocyte
+longLabel	ANMII3_MII oocyte_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANMII3_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,0,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANMII4
+shortLabel	ANMII4_MII oocyte
+longLabel	ANMII4_MII oocyte_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANMII4_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,0,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANMII5
+shortLabel	ANMII5_MII oocyte
+longLabel	ANMII5_MII oocyte_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANMII5_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,0,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANMII6
+shortLabel	ANMII6_MII oocyte
+longLabel	ANMII6_MII oocyte_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANMII6_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,0,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANMII7
+shortLabel	ANMII7_MII oocyte
+longLabel	ANMII7_MII oocyte_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANMII7_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,0,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANMII8
+shortLabel	ANMII8_MII oocyte
+longLabel	ANMII8_MII oocyte_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANMII8_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,0,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANMII9
+shortLabel	ANMII9_MII oocyte
+longLabel	ANMII9_MII oocyte_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANMII9_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,0,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANMII10
+shortLabel	ANMII10_MII oocyte
+longLabel	ANMII10_MII oocyte_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANMII10_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,0,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANMII11
+shortLabel	ANMII11_MII oocyte
+longLabel	ANMII11_MII oocyte_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANMII11_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,0,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANMII12
+shortLabel	ANMII12_MII oocyte
+longLabel	ANMII12_MII oocyte_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANMII12_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,0,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANTF1
+shortLabel	ANTF1_2:4-cell
+longLabel	ANTF1_2:4-cell_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANTF1_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,139,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANTF2
+shortLabel	ANTF2_2:4-cell
+longLabel	ANTF2_2:4-cell_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANTF2_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,139,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANTF3
+shortLabel	ANTF3_2:4-cell
+longLabel	ANTF3_2:4-cell_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANTF3_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,139,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANTF4
+shortLabel	ANTF4_2:4-cell
+longLabel	ANTF4_2:4-cell_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANTF4_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,139,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANTF5
+shortLabel	ANTF5_2:4-cell
+longLabel	ANTF5_2:4-cell_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANTF5_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,139,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANTF6
+shortLabel	ANTF6_2:4-cell
+longLabel	ANTF6_2:4-cell_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANTF6_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,139,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANTF7
+shortLabel	ANTF7_2:4-cell
+longLabel	ANTF7_2:4-cell_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANTF7_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,139,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANTF8
+shortLabel	ANTF8_2:4-cell
+longLabel	ANTF8_2:4-cell_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANTF8_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,139,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANTF9
+shortLabel	ANTF9_2:4-cell
+longLabel	ANTF9_2:4-cell_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANTF9_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,139,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANTF10
+shortLabel	ANTF10_2:4-cell
+longLabel	ANTF10_2:4-cell_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANTF10_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,139,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANTF11
+shortLabel	ANTF11_2:4-cell
+longLabel	ANTF11_2:4-cell_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANTF11_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,139,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ANTF12
+shortLabel	ANTF12_2:4-cell
+longLabel	ANTF12_2:4-cell_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ANTF12_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,139,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESMII1
+shortLabel	ESMII1_MII oocyte
+longLabel	ESMII1_MII oocyte_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESMII1_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	159,148,120
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESMII2
+shortLabel	ESMII2_MII oocyte
+longLabel	ESMII2_MII oocyte_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESMII2_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	159,148,120
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESMII3
+shortLabel	ESMII3_MII oocyte
+longLabel	ESMII3_MII oocyte_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESMII3_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	159,148,120
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESMII4
+shortLabel	ESMII4_MII oocyte
+longLabel	ESMII4_MII oocyte_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESMII4_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	159,148,120
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESMII6
+shortLabel	ESMII6_MII oocyte
+longLabel	ESMII6_MII oocyte_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESMII6_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	159,148,120
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESMII7
+shortLabel	ESMII7_MII oocyte
+longLabel	ESMII7_MII oocyte_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESMII7_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	159,148,120
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESMII9
+shortLabel	ESMII9_MII oocyte
+longLabel	ESMII9_MII oocyte_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESMII9_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	159,148,120
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESMII10
+shortLabel	ESMII10_MII oocyte
+longLabel	ESMII10_MII oocyte_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESMII10_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	159,148,120
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESMII11
+shortLabel	ESMII11_MII oocyte
+longLabel	ESMII11_MII oocyte_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESMII11_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	159,148,120
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESMII12
+shortLabel	ESMII12_MII oocyte
+longLabel	ESMII12_MII oocyte_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESMII12_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	159,148,120
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESMII13
+shortLabel	ESMII13_MII oocyte
+longLabel	ESMII13_MII oocyte_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESMII13_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	159,148,120
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESMII14
+shortLabel	ESMII14_MII oocyte
+longLabel	ESMII14_MII oocyte_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESMII14_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	159,148,120
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESTF1
+shortLabel	ESTF1_2:4-cell
+longLabel	ESTF1_2:4-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESTF1_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,255,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESTF2
+shortLabel	ESTF2_2:4-cell
+longLabel	ESTF2_2:4-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESTF2_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,255,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESTF3
+shortLabel	ESTF3_2:4-cell
+longLabel	ESTF3_2:4-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESTF3_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,255,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESTF4
+shortLabel	ESTF4_2:4-cell
+longLabel	ESTF4_2:4-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESTF4_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,255,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESTF5
+shortLabel	ESTF5_2:4-cell
+longLabel	ESTF5_2:4-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESTF5_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,255,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESTF6
+shortLabel	ESTF6_2:4-cell
+longLabel	ESTF6_2:4-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESTF6_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,255,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESTF7
+shortLabel	ESTF7_2:4-cell
+longLabel	ESTF7_2:4-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESTF7_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,255,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESTF8
+shortLabel	ESTF8_2:4-cell
+longLabel	ESTF8_2:4-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESTF8_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,255,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESTF9
+shortLabel	ESTF9_2:4-cell
+longLabel	ESTF9_2:4-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESTF9_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,255,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESTF10
+shortLabel	ESTF10_2:4-cell
+longLabel	ESTF10_2:4-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESTF10_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,255,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESTF11
+shortLabel	ESTF11_2:4-cell
+longLabel	ESTF11_2:4-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESTF11_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,255,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	ESTF12
+shortLabel	ESTF12_2:4-cell
+longLabel	ESTF12_2:4-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESTF12_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,255,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGMII1
+shortLabel	IVGMII1_MII oocyte
+longLabel	IVGMII1_MII oocyte_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGMII1_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,46
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGMII2
+shortLabel	IVGMII2_MII oocyte
+longLabel	IVGMII2_MII oocyte_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGMII2_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,46
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGMII3
+shortLabel	IVGMII3_MII oocyte
+longLabel	IVGMII3_MII oocyte_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGMII3_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,46
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGMII4
+shortLabel	IVGMII4_MII oocyte
+longLabel	IVGMII4_MII oocyte_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGMII4_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,46
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGMII5
+shortLabel	IVGMII5_MII oocyte
+longLabel	IVGMII5_MII oocyte_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGMII5_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,46
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGMII7
+shortLabel	IVGMII7_MII oocyte
+longLabel	IVGMII7_MII oocyte_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGMII7_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,46
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGMII8
+shortLabel	IVGMII8_MII oocyte
+longLabel	IVGMII8_MII oocyte_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGMII8_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,46
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGMII9
+shortLabel	IVGMII9_MII oocyte
+longLabel	IVGMII9_MII oocyte_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGMII9_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,46
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGMII10
+shortLabel	IVGMII10_MII oocyte
+longLabel	IVGMII10_MII oocyte_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGMII10_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,46
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGMII12
+shortLabel	IVGMII12_MII oocyte
+longLabel	IVGMII12_MII oocyte_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGMII12_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,46
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGMII13
+shortLabel	IVGMII13_MII oocyte
+longLabel	IVGMII13_MII oocyte_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGMII13_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,46
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGMII14
+shortLabel	IVGMII14_MII oocyte
+longLabel	IVGMII14_MII oocyte_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGMII14_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,46
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGTF1
+shortLabel	IVGTF1_2-cell
+longLabel	IVGTF1_2-cell_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGTF1_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,185
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGTF2
+shortLabel	IVGTF2_2-cell
+longLabel	IVGTF2_2-cell_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGTF2_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,185
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGTF3
+shortLabel	IVGTF3_2-cell
+longLabel	IVGTF3_2-cell_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGTF3_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,185
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGTF4
+shortLabel	IVGTF4_2-cell
+longLabel	IVGTF4_2-cell_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGTF4_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,185
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGTF5
+shortLabel	IVGTF5_2-cell
+longLabel	IVGTF5_2-cell_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGTF5_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,185
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGTF6
+shortLabel	IVGTF6_2-cell
+longLabel	IVGTF6_2-cell_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGTF6_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,185
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGTF7
+shortLabel	IVGTF7_2-cell
+longLabel	IVGTF7_2-cell_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGTF7_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,185
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGTF8
+shortLabel	IVGTF8_2-cell
+longLabel	IVGTF8_2-cell_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGTF8_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,185
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGTF9
+shortLabel	IVGTF9_2-cell
+longLabel	IVGTF9_2-cell_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGTF9_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,185
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGTF10
+shortLabel	IVGTF10_2-cell
+longLabel	IVGTF10_2-cell_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGTF10_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,185
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGTF11
+shortLabel	IVGTF11_2-cell
+longLabel	IVGTF11_2-cell_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGTF11_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,185
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	IVGTF12
+shortLabel	IVGTF12_2-cell
+longLabel	IVGTF12_2-cell_IVGDM
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGTF12_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,255,185
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OAE1
+shortLabel	OAE1_blastocyst
+longLabel	OAE1_blastocyst_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OAE1_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,185,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OAE2
+shortLabel	OAE2_blastocyst
+longLabel	OAE2_blastocyst_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OAE2_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,185,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OAE5
+shortLabel	OAE5_blastocyst
+longLabel	OAE5_blastocyst_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OAE5_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,185,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OAE6
+shortLabel	OAE6_blastocyst
+longLabel	OAE6_blastocyst_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OAE6_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,185,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OAE7
+shortLabel	OAE7_blastocyst
+longLabel	OAE7_blastocyst_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OAE7_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,185,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OAE8
+shortLabel	OAE8_blastocyst
+longLabel	OAE8_blastocyst_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OAE8_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,185,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OAE9
+shortLabel	OAE9_blastocyst
+longLabel	OAE9_blastocyst_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OAE9_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,185,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OAE10
+shortLabel	OAE10_blastocyst
+longLabel	OAE10_blastocyst_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OAE10_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,185,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OAE11
+shortLabel	OAE11_blastocyst
+longLabel	OAE11_blastocyst_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OAE11_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,185,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OAE12
+shortLabel	OAE12_blastocyst
+longLabel	OAE12_blastocyst_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OAE12_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,185,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OAE13
+shortLabel	OAE13_blastocyst
+longLabel	OAE13_blastocyst_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OAE13_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,185,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OAE14
+shortLabel	OAE14_blastocyst
+longLabel	OAE14_blastocyst_anestrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OAE14_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,185,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OESX1
+shortLabel	OESX1_8:16-cell
+longLabel	OESX1_8:16-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OESX1_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,46,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OESX3
+shortLabel	OESX3_8:16-cell
+longLabel	OESX3_8:16-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OESX3_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,46,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OESX4
+shortLabel	OESX4_8:16-cell
+longLabel	OESX4_8:16-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OESX4_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,46,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OESX6
+shortLabel	OESX6_8:16-cell
+longLabel	OESX6_8:16-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OESX6_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,46,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OESX7
+shortLabel	OESX7_8:16-cell
+longLabel	OESX7_8:16-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OESX7_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,46,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OESX8
+shortLabel	OESX8_8:16-cell
+longLabel	OESX8_8:16-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OESX8_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	0,46,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVT1
+shortLabel	OIVT1_blastocyst
+longLabel	OIVT1_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVT1_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVT2
+shortLabel	OIVT2_blastocyst
+longLabel	OIVT2_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVT2_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVT3
+shortLabel	OIVT3_blastocyst
+longLabel	OIVT3_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVT3_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVT4
+shortLabel	OIVT4_blastocyst
+longLabel	OIVT4_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVT4_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVT5
+shortLabel	OIVT5_blastocyst
+longLabel	OIVT5_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVT5_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVT6
+shortLabel	OIVT6_blastocyst
+longLabel	OIVT6_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVT6_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVT7
+shortLabel	OIVT7_blastocyst
+longLabel	OIVT7_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVT7_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVT8
+shortLabel	OIVT8_blastocyst
+longLabel	OIVT8_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVT8_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVT9
+shortLabel	OIVT9_blastocyst
+longLabel	OIVT9_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVT9_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVT10
+shortLabel	OIVT10_blastocyst
+longLabel	OIVT10_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVT10_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVT11
+shortLabel	OIVT11_blastocyst
+longLabel	OIVT11_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVT11_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVT12
+shortLabel	OIVT12_blastocyst
+longLabel	OIVT12_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVT12_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	93,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVV1
+shortLabel	OIVV1_blastocyst
+longLabel	OIVV1_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVV1_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	232,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVV2
+shortLabel	OIVV2_blastocyst
+longLabel	OIVV2_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVV2_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	232,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVV3
+shortLabel	OIVV3_blastocyst
+longLabel	OIVV3_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVV3_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	232,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVV4
+shortLabel	OIVV4_blastocyst
+longLabel	OIVV4_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVV4_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	232,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVV5
+shortLabel	OIVV5_blastocyst
+longLabel	OIVV5_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVV5_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	232,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVV6
+shortLabel	OIVV6_blastocyst
+longLabel	OIVV6_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVV6_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	232,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVV7
+shortLabel	OIVV7_blastocyst
+longLabel	OIVV7_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVV7_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	232,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVV8
+shortLabel	OIVV8_blastocyst
+longLabel	OIVV8_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVV8_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	232,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVV9
+shortLabel	OIVV9_blastocyst
+longLabel	OIVV9_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVV9_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	232,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVV10
+shortLabel	OIVV10_blastocyst
+longLabel	OIVV10_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVV10_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	232,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVV11
+shortLabel	OIVV11_blastocyst
+longLabel	OIVV11_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVV11_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	232,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OIVV12
+shortLabel	OIVV12_blastocyst
+longLabel	OIVV12_blastocyst_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVV12_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	232,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OTF1
+shortLabel	OTF1_2:4-cell
+longLabel	OTF1_2:4-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OTF1_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,0,139
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OTF2
+shortLabel	OTF2_2:4-cell
+longLabel	OTF2_2:4-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OTF2_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,0,139
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OTF3
+shortLabel	OTF3_2:4-cell
+longLabel	OTF3_2:4-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OTF3_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,0,139
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OTF4
+shortLabel	OTF4_2:4-cell
+longLabel	OTF4_2:4-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OTF4_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,0,139
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OTF5
+shortLabel	OTF5_2:4-cell
+longLabel	OTF5_2:4-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OTF5_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,0,139
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track	OTF6
+shortLabel	OTF6_2:4-cell
+longLabel	OTF6_2:4-cell_estrus
+bigDataUrl	https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OTF6_genomeCov.bw
+type	bigWig 0 1000
+maxHeightPixels	100:30:10
+viewLimits	0:5000
+visibility	hide
+alwaysZero	on
+autoScale	on
+color	255,0,139
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+

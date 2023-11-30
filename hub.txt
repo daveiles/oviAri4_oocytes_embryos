@@ -1,0 +1,6 @@
+hub oviAri4earlyStagesHub
+shortLabel sheep early embryo RNA-seq
+longLabel RNA-seq on sheep oocytes and early stage embryos
+genomesFile genomes.txt
+email daveiles@omicsltd.com
+descriptionUrl
