@@ -1,0 +1,172 @@
+track ESMII
+shortLabel ESMII
+longLabel GV_IVM MII oocyte
+bigDataUrl https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESMII.merged_scaled.bw
+type bigWig 0 1000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale	on
+color	220,20,60
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track IVGMII
+shortLabel IVGMII
+longLabel in vitro MII oocyte
+bigDataUrl https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGMII.merged_scaled.bw
+type bigWig 0 1000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale	on
+color	220,0,0
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track IVGTF
+shortLabel IVGTF
+longLabel in vitro 2-cell
+bigDataUrl https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/IVGTF.merged_scaled.bw
+type bigWig 0 1000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale	on
+color	79,163,5
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track OTF
+shortLabel OTF
+longLabel GV_IVG 2:4-cell
+bigDataUrl https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OTF.merged_scaled.bw
+type bigWig 0 1000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale	on
+color	79,163,100
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track ESTF
+shortLabel ESTF
+longLabel GV_IVM 4-cell
+bigDataUrl https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ESTF.merged_scaled.bw
+type bigWig 0 1000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale	on
+color	6,123,186
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track OESX
+shortLabel OESX
+longLabel GV_IVM 8:16-cell
+bigDataUrl https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OESX.merged_scaled.bw
+type bigWig 0 1000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale	on
+color	0,0,128
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track CHIP
+shortLabel CHIP
+longLabel cultured blastocyst: microfluidic device
+bigDataUrl https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/ChIP.merged_scaled.bw
+type bigWig 0 1000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale	on
+color	128,0,128
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track MICRO
+shortLabel MICRO
+longLabel cultured blastocyst: microdrop
+bigDataUrl https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/MICRO.merged_scaled.bw
+type bigWig 0 1000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale	on
+color	148,0,211
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track OIVT
+shortLabel OIVT
+longLabel GV_IVM blastocyst
+bigDataUrl https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVT.merged_scaled.bw
+type bigWig 0 1000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale	on
+color	226,0,226
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track OIVV
+shortLabel OIVV
+longLabel in vivo blastocyst
+bigDataUrl https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/OIVV.merged_scaled.bw
+type bigWig 0 1000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale	on
+color	204,0,255
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track paternal_DNA
+shortLabel paternal_DNA
+longLabel Texel sperm DNA
+bigDataUrl https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/Texel_sperm_DNA_27Oct24_treat_pileup.bw
+type bigWig 0 1000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale	on
+color	24,66,122
+graphTypeDefault	bar
+windowingFunction	maximum
+smoothingWindow	off
+
+track DNA_peaks
+shortLabel DNA_peaks
+longLabel Texel sperm DNA peaks
+bigDataUrl https://s3.eu-west-1.amazonaws.com/omicsltd.jianping.data/hub2/Texel_sperm_DNA_27Oct24_peaks.bb
+type bigBed
+visibility dense
+color	24,66,122
